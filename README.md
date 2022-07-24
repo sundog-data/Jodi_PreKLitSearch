@@ -1,4 +1,6 @@
-1) THE LONG-TERM EFFECTS OF UNIVERSAL PRESCHOOL IN BOSTON
+1) The Long Term Effects of Universal Preschool in Boston
+
+
 https://www.nber.org/system/files/working_papers/w28756/w28756.pdf?utm_source=PANTHEON_STRIPPED&amp%3Butm_medium=PANTHEON_STRIPPED&amp%3Butm_content=PANTHEON_STRIPPED&amp%3Butm_term=PANTHEON_STRIPPED&amp%3Butm_campaign=PANTHEON_STRIPPED&amp%3Butm_id=PANTHEON_STRIPPED&amp%3Borgid=&amp%3Butm_att1=money
 
 Source: Long Form Research Artricle - National Bureau of Economic Research
@@ -13,6 +15,21 @@ effects on college enrollment, SAT-taking, and disciplinary outcomes are larger 
 girls. Our findings illustrate possibilities for large-scale modern, public preschool and highlight  
 the importance of measuring long-term and non-test score outcomes in evaluating the  
 effectiveness of education programs
+
+Take Aways: 
+
+P. 12: "A preschool offer increases on-time college enrollment by 5.4 percentage points.... This estimate, which is statistically significant
+at the 1% level, implies an 18% increase in on-time college enrollment relative to the 46% rate for
+non-offered students (column (1))."
+
+P. 15: "Enrollment in a BPS preschool increases the probability that students graduate from a Massachusetts public high school on time by 5.4 percentage points (p < 0.1), and this effect grows to 6.0 percentage points when we include students who graduate at any time (p < 0.05). The estimated effect on ever graduating high school is a 9% increase relative to the non-offered graduation rate of 64%"
+
+P.18: "Table 7 displays 2SLS estimates of the effects of preschool attendance on several disciplinary outcomes measured in high school. Preschool attendance reduces the total number of suspensions students receive in high school by 0.24 (p < 0.1)."
+
+P.21: "The results of our analysis show that public preschool enrollment boosts post-secondary and
+college preparatory outcomes. Students randomly assigned to attend a Boston preschool experience
+fewer disciplinary incidents in high school, take the SAT and graduate high school at higher rates,
+and are more likely to enroll in college."
 
 
 2) Fact Sheet: American Families Plan: 
