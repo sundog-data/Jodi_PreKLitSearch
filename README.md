@@ -79,3 +79,43 @@ creates 353,000 jobs within 2 years. The present-value budgetary savings
 from increased tax revenues and expenditure savings surpass the cost of the  
 program by a ratio of 1.61-to-1. This means that the investment more than  
 pays for itself both in the form of greater GDP and budgetary savings." ( Page 4)
+
+5) The High/Scope Perry Preschool Study Through Age 40
+
+Source: 
+https://nieer.org/wp-content/uploads/2014/09/specialsummary_rev2011_02_2.pdf
+
+Key Takeaways: 
+
+"The program group significantly outperformed the no-program group on highest level
+of schooling completed (77% vs. 60% graduating from high school)."
+
+"Significantly more of the program group than the no-program group were employed at age
+40 (76% vs. 62%), which continues the trend from age 27 (69% vs. 56%)." (Page 1)
+
+"Rather than paying rent, receiving a subsidy, living with others, or being incarcerated,
+the program group had significantly more stable dwelling arrangements at ages 27 and
+40—that is, more of them owned their own homes (27% vs. 5% at age 27, 37% vs. 28% at
+age 40)" (Page 2)
+
+"The program group had significantly fewer lifetime arrests than the no-program group
+(36% vs. 55% arrested 5 or more times) and significantly fewer arrests for violent crimes
+(32% vs. 48% ever arrested), property crimes (36% vs. 58% ever arrested), and drug crimes
+(14% vs. 34% ever arrested). (Page 3)
+
+More program than no-program males raised their own children (57% vs. 30%) and had
+second marriages (29% vs. 8%) (Page 3)
+
+In constant 2000 dollars discounted at 3%, the economic return to society of the Perry
+Preschool program was $244,812 per participant on an investment of $15,166 per
+participant—$16.14 per dollar invested. (Page 3) 
+
+Interestingly, 93% of the public return was due to the performance of males and only
+7% to females. This difference is due to the fact that compared to females, males commit-
+ted substantially more crimes, but program males committed substantially fewer crimes
+than no-program males. (Page 3)
+
+The major conclusion of this midlife phase of the Perry Preschool research study is that
+high-quality preschool programs for young children living in poverty contribute to their
+intellectual and social development in childhood and their school success, economic per-
+formance, and reduced commission of crime in adulthood. (Page 5). 
